@@ -2,5 +2,5 @@
 
 Sistema de jogos Guilherme
 ```
-placas md
+node app.js
 ```
